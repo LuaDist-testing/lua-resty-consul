@@ -2,17 +2,17 @@
 
 
 package = "lua-resty-consul"
-version = "0.1-0"
+version = "0.2-0"
 
 -- LuaDist source
 source = {
-  tag = "0.1-0",
+  tag = "0.2-0",
   url = "git://github.com/LuaDist-testing/lua-resty-consul.git"
 }
 -- Original source
 -- source = {
 --   url = "git://github.com/hamishforbes/lua-resty-consul.git",
---   tag = "v0.1",
+--   tag = "v0.2",
 -- }
 
 description = {
